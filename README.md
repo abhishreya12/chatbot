@@ -1,2 +1,2 @@
 # chatbot
-Order bot for pizza delivery website using chatgpt
+Chatbot for pizza delivery website using chatGpt.
